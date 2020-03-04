@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gestures</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="value">Value</string>
+    <string name="_12">12</string>
+    <string name="convert_value">Convert Value</string>
+</resources>
